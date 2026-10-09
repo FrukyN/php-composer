@@ -1,0 +1,19 @@
+{
+    "name": "lukyn/php",
+    "require-dev": {
+        "bcosca/fatfree": "^3.9",
+        "ikkez/f3-cortex": "^1.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lukyn\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "FrukyN",
+            "email": "lustr2007@seznam.cz"
+        }
+    ],
+    "require": {}
+}
